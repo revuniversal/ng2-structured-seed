@@ -1,7 +1,12 @@
 # ng2-structured-seed
 
-Angular2 seed with a directory and file structure designed to be discoverable if not always composable.
-Directory Structure:
+Angular2 seed with the following prioritized goals: 
+
+- file names should describe purpose and type
+- directory structure should be discoverable
+- directory structure should be composable
+
+#### Directory structure:
 
     + app
       + root
@@ -18,7 +23,7 @@ Directory Structure:
     typings.json
 
 
-## TODO
+#### TODO
 
 - [x] basic directory structure
 - [x] add navbar
