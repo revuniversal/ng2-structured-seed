@@ -33,6 +33,6 @@ Just run:
 - [x] basic directory structure
 - [x] add navbar
 - [x] add router
-- [ ] getting started guide
+- [x] getting started guide
 - [ ] get feedback
 - [ ] enhance further
