@@ -22,7 +22,7 @@ Directory Structure:
 
 - [x] basic directory structure
 - [x] add navbar
-- [ ] add router
+- [x] add router
 - [ ] getting started guide
 - [ ] get feedback
 - [ ] enhance further
