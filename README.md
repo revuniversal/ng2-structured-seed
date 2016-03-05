@@ -1,6 +1,6 @@
 # ng2-structured-seed
 
-Angular2 seed with the following prioritized goals: 
+An Angular2 project seed with the following goals, ordered by priority: 
 
 - file names should describe purpose and type
 - directory structure should be discoverable
@@ -22,8 +22,13 @@ Angular2 seed with the following prioritized goals:
     tsconfig.json
     typings.json
 
+## Getting Started
 
-#### TODO
+Just run:
+
+    npm start
+
+#### Tasks
 
 - [x] basic directory structure
 - [x] add navbar
