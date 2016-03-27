@@ -47,10 +47,12 @@ module.exports = function (config) {
         'app/*.spec.ts',
       ],
       
-      configFile: 'system.conf.js',
       config: {
         transpiler: 'typescript',
         paths: {
+          'typescript': 'node_modules/typescript/lib/typescript.js',
+          'systemjs': 'node_modules/systemjs/dist/system.js',
+          'system-polyfills': 'node_modules/systemjs/dist/system-polyfills.js',
           'angular2/*': 'node_modules/angular2/*.js'
         },
         packages: {
