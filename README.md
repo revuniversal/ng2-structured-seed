@@ -17,6 +17,8 @@ An Angular2 project seed with the following goals, ordered by priority:
         + example
           example.component.ts
       main.ts (bootstrapping file)
+      example.ts (stupid example class)
+      example.spec.ts (spec proof of concept)
     index.html
     package.json
     tsconfig.json
@@ -24,9 +26,13 @@ An Angular2 project seed with the following goals, ordered by priority:
 
 ## Getting Started
 
-Just run:
+To run the app:
 
     npm start
+    
+Watch and run tests:
+
+    npm test
 
 #### Tasks
 
@@ -34,5 +40,6 @@ Just run:
 - [x] add navbar
 - [x] add router
 - [x] getting started guide
+- [x] karma testing
 - [ ] get feedback
 - [ ] enhance further

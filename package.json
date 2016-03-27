@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",
+    "test": "karma start",
     "tsc": "tsc",
     "tsc:w": "tsc -w",
     "lite": "lite-server",
