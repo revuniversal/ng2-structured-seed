@@ -23,6 +23,8 @@ An Angular2 project seed with the following goals, ordered by priority:
     package.json
     tsconfig.json
     typings.json
+    system.conf.js
+    karma.conf.js
 
 ## Getting Started
 
